@@ -35,7 +35,7 @@ The following instructions will get you a copy of the project and all the settin
 Clone this repository to your local machine
 
 ```
-$ git clone 
+$ git clone https://github.com/Anoxity16/url-shortener
 ```
 
 
